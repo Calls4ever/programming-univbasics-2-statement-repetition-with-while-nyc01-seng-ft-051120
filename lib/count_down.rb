@@ -4,5 +4,4 @@ while c > 0 do
   puts c.to_s
   c -= c
 end
-end
 puts "Happy New Year!"
