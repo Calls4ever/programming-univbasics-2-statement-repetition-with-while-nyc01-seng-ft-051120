@@ -2,6 +2,6 @@
 c = 10
 while c > 0 do
   puts c
-  c = c-1
+  c -=1
 end
 puts "Happy New Year!"
