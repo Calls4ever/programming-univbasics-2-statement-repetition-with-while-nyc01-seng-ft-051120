@@ -1,8 +1,8 @@
 # Write your code here
-count = 10
-while count > 0
+c = 10
+while c > 0
   do
-  puts count
-  count -= count
+  puts c
+  c -= c
 end
 puts "Happy New Year!"
