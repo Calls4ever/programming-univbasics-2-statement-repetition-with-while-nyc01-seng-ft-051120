@@ -3,7 +3,7 @@ c = 10
 while c > 0
 do
 
-  puts c
+  puts c.to_s
   c -= c
 end
 end
